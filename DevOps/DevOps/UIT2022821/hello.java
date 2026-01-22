@@ -4,7 +4,6 @@ public class hello {
     
     public static void main(String[] args) {
         System.out.println("Hello World");
-        System.out.println("meri duniya ussi din tabah ho gyi jab main paida hui");
     }
 }
 
