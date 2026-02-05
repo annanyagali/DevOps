@@ -1,3 +1,6 @@
 *.swp
 *.jar
 lib/
+*.swp
+*.jar
+lib/
