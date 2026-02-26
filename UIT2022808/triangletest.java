@@ -2,7 +2,7 @@ package UIT2022808;
 import static org.junit.jupiter.api.Assertions.assertFalse;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
-import java.beans.Transient;
+//import java.beans.Transient;
 
 import org.junit.Test;
 
